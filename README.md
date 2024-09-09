@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ritul
+- 👋 Hi, I’m Ritul Singh
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning DSA
 <!--- 💞️ I’m looking to collaborate on ...    --->
